@@ -1,0 +1,1 @@
+Es importante porque permite saber qué cambios se han hecho en el proyecto y quién los hizo. Ayuda a evitar errores graves y a recuperar versiones anteriores si algo sale mal. Además facilita el trabajo en equipo ya que varias personas pueden trabajar sin perder información.
